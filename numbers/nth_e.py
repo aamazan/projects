@@ -1,5 +1,5 @@
 # Author: Armaan Amazan
-# Description: Find e to the Nth digit
+# Description: Prints n digits of e
 import math
 
 n = int(input())

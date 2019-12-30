@@ -1,5 +1,5 @@
 # Author: Armaan Amazan
-# Description: Find pi to the Nth digit
+# Description: Prints n digits of pi
 import math
 
 n = int(input())
