@@ -4,6 +4,8 @@ import math
 
 n = int(input())
 
+print("Please enter how many digits of pi you would like: ")
+
 def digits(num):
     p = str(math.pi)
     if num == 1:

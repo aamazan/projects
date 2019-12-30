@@ -4,6 +4,8 @@ import math
 
 n = int(input())
 
+print("Please enter how many digits of e you would like: ")
+
 def digits(num):
     e = str(math.exp(1))
     if num == 1:
