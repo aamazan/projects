@@ -1,7 +1,6 @@
 # Author: Armaan Amazan
 # Description: Prints prime numbers until prompted to stop
-
-
+import math
 
 print("Press 1 for a prime number, or press 2 to quit.")
 
